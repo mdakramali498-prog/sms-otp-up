@@ -1,2 +1,5 @@
 pyTelegramBotAPI>=4.14.0
 requests>=2.31.0
+telethon>=1.41.2
+aiohttp
+phonenumbers
